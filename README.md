@@ -6,7 +6,7 @@
 
 3) Read it 
 
-4)
+4) The "How To Answer Questions in a Helpful Way" section of the article lists nearly everything I could think of. The only thing left would be directing the querent toward an older thread if the question has been asked and answered already. 
 
 5) Ubuntu installed
 
@@ -18,4 +18,4 @@
 
 9) Refer to picture
 
-10)
+10) 
